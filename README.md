@@ -55,7 +55,20 @@ El informe interactivo está organizado en:
 - **Productos y clientes:** rankings por ingresos y transacciones, y comparación del comportamiento de clientes.
 - **Canales y medios de pago:** participación por canal, ingresos por forma de pago y matriz de comparación cruzada.
 
-El archivo [.pbix](powerbi/Analisisdeventas.pbix) y las capturas están incorporados de Power BI; no están incluidos en esta carpeta base.
+El informe interactivo está disponible en [Power BI](powerbi/Analisisdeventas.pbix). A continuación se muestran las capturas de sus tres páginas.
+
+### Resumen comercial
+
+![Resumen comercial](imagenes/1-%20Resumen%20comercial.png)
+
+### Productos y clientes
+
+![Productos y clientes](imagenes/2-%20Productos%20y%20clientes.png)
+
+### Canales y medios de pago
+
+![Canales y medios de pago](imagenes/3-%20Canales%20y%20medios%20de%20pagos.png)
+
 
 ## Calidad de datos y limitaciones
 
